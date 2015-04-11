@@ -2,7 +2,7 @@
 
 **Author: Tatyana Toncheva**
 
-**Date: 2015-04-12**
+**Date: April 12, 2015**
 
 ## Description
 The purpose of collecting the data and its description are in the README.md file in this repository

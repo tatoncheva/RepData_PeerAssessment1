@@ -1,13 +1,9 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
+#Reproducible Research: Peer Assessment 1
+
 
 **Author: Tatyana Toncheva**
 
-**Date: `r Sys.Date()`**
+**Date: April 12, 2015**
 
 ## Description
 The purpose of collecting the data and its description are in the README.md file in this repository
